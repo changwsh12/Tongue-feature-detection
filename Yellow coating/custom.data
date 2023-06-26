@@ -1,0 +1,5 @@
+classes = 1
+train = yellow\train.txt
+valid = yellow\valid.txt
+names = yellow\custom.names
+backup = yellow\backup
